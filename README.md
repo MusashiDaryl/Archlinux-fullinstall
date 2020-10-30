@@ -1,5 +1,5 @@
 ## Guide d'installation complet pour Arch Linux avec en WM [AwesomeWM 4.3](https://awesomewm.org/)
-### Original work by PapyElGringo, Chris Titus Tech, MAtmoul et bien d'autres.
+### A l'origine de ces projets PapyElGringo, Chris Titus Tech, MAtmoul et bien d'autres.
 
 Note: Ce guide fait office de pense-bête pour les débutants afin d'installer ou réinstaller Arch.
 
