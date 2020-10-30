@@ -1,9 +1,9 @@
-## Material and Mouse driven theme for [AwesomeWM 4.3](https://awesomewm.org/)
-### Original work by PapyElGringo, official development seem to have moved to [material-shell](https://github.com/PapyElGringo/material-shell)
+## Guide d'installation complet pour Arch Linux avec en WM [AwesomeWM 4.3](https://awesomewm.org/)
+### Original work by PapyElGringo, Chris Titus Tech, MAtmoul et bien d'autres.
 
-Note: This fork focuses on streamlining the config and adding some Quality of Life touches to the theme.
+Note: Ce guide fait office de pense-bête pour les débutants afin d'installer ou réinstaller Arch.
 
-An almost desktop environment made with [AwesomeWM](https://awesomewm.org/) following the [Material Design guidelines](https://material.io) with a performant opiniated mouse/keyboard workflow to increase daily productivity and comfort.
+Le but de la manoeuvre est d'installer Arch via archfi, et ensuite avoir un simili environement de bureau avec [AwesomeWM](https://awesomewm.org/) avec la [norme graphique material (https://material.io) dans une volonté d'allier le confort de travail à l'esthétique.
 
 [![](./theme/PapyElGringo-theme/demo.gif?raw=true)](https://www.reddit.com/r/unixporn/comments/anp51q/awesome_material_awesome_workflow/)
 *[Click to view in high quality](https://www.reddit.com/r/unixporn/comments/anp51q/awesome_material_awesome_workflow/)*
