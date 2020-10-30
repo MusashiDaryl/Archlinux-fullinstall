@@ -14,9 +14,9 @@ Le but de la manoeuvre est d'installer Arch via archfi, et ensuite avoir un simi
 
 ## Installation
 
-### I)Installation de Arch
+### I) Installation de Arch
 
-#### 1)Lancement de Archfi
+#### 1) Lancement de Archfi
 
 ##### Après le boot sur la clé avec Arch en EFI
 
@@ -27,7 +27,7 @@ wget archi.sf.net
 sh archfi
 ```
 
-#### 2)Le Script Archfi
+#### 2) Le Script Archfi
 
 *Note: PPA is for picom since compton is old and hasn't been updated*
 
