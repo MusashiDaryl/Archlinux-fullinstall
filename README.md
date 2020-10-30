@@ -29,6 +29,8 @@ sh archfi
 
 #### 2) Le Script Archfi
 
+![](https://i.imgur.com/fELCtep.png)|
+
 *Note: PPA is for picom since compton is old and hasn't been updated*
 
 #### Arch-Based
