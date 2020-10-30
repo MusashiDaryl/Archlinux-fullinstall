@@ -6,7 +6,7 @@ Note: Ce guide fait office de pense-bête pour les débutants afin d'installer o
 Le but de la manoeuvre est d'installer Arch via archfi, et ensuite avoir un simili environement de bureau avec [AwesomeWM](https://awesomewm.org/) avec la [norme graphique material](https://material.io) dans une volonté d'allier le confort de travail à l'esthétique.
 
 [![](./theme/PapyElGringo-theme/demo.gif?raw=true)](https://www.reddit.com/r/unixporn/comments/anp51q/awesome_material_awesome_workflow/)
-*[Click to view in high quality](https://www.reddit.com/r/unixporn/comments/anp51q/awesome_material_awesome_workflow/)*
+*[Clickquer pour voir en bonne qualité](https://www.reddit.com/r/unixporn/comments/anp51q/awesome_material_awesome_workflow/)*
 
 | Tiled         | Panel         | Exit screen   |
 |:-------------:|:-------------:|:-------------:|
@@ -14,13 +14,19 @@ Le but de la manoeuvre est d'installer Arch via archfi, et ensuite avoir un simi
 
 ## Installation
 
-### 1) Get all the dependencies
+### I)Installation de Arch
 
-#### Debian-Based
+#### 1)Lancement de Archfi
+
+##### Après le boot sur la clé avec Arch en EFI
 
 ```
-sudo add-apt-repository ppa:regolith-linux/unstable -y
-sudo apt install awesome fonts-roboto rofi picom i3lock xclip qt5-style-plugins materia-gtk-theme lxappearance xbacklight kde-spectacle nautilus xfce4-power-manager pnmixer network-manager-applet gnome-polkit -y
+pacman -Sy
+pacman -S wget
+wget archi.sf.net
+sh archfi
+
+
 wget -qO- https://git.io/papirus-icon-theme-install | sh
 ```
 
