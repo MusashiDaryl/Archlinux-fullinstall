@@ -3,7 +3,7 @@
 
 Note: Ce guide fait office de pense-bête pour les débutants afin d'installer ou réinstaller Arch.
 
-Le but de la manoeuvre est d'installer Arch via archfi, et ensuite avoir un simili environement de bureau avec [AwesomeWM](https://awesomewm.org/) avec la [norme graphique material (https://material.io) dans une volonté d'allier le confort de travail à l'esthétique.
+Le but de la manoeuvre est d'installer Arch via archfi, et ensuite avoir un simili environement de bureau avec [AwesomeWM](https://awesomewm.org/) avec la [norme graphique material](https://material.io) dans une volonté d'allier le confort de travail à l'esthétique.
 
 [![](./theme/PapyElGringo-theme/demo.gif?raw=true)](https://www.reddit.com/r/unixporn/comments/anp51q/awesome_material_awesome_workflow/)
 *[Click to view in high quality](https://www.reddit.com/r/unixporn/comments/anp51q/awesome_material_awesome_workflow/)*
