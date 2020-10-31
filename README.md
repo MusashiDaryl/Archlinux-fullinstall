@@ -20,7 +20,7 @@ Le but de la manoeuvre est d'installer Arch via archfi, et ensuite avoir un simi
 
 | Lancer la clé | Lancer Arch   | tty1   |
 |:-------------:|:-------------:|:-------------:|
-|![](https://i.vgy.me/trAsRK.png)|![](https://i.imgur.com/7IthpQS.png)|![](https://i.imgur.com/rcKOLYQ.png)|
+|![](https://i.vgy.me/trAsRK.png)|![](https://i.vgy.me/xb5izX.png)|![](https://i.imgur.com/rcKOLYQ.png)|
 
 
 ##### Après le boot sur la clé avec Arch en EFI
