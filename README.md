@@ -29,7 +29,11 @@ sh archfi
 
 #### 2) Le Script Archfi
 
-![](https://i.imgur.com/fELCtep.png)
+##### Choix de la langue et du clavier
+
+| Menu de  base | Langue        | Clavier       |
+|:-------------:|:-------------:|:-------------:|
+|![](https://i.imgur.com/fELCtep.png)|![](https://i.imgur.com/7IthpQS.png)|![](https://i.imgur.com/rcKOLYQ.png)|
 
 *Note: PPA is for picom since compton is old and hasn't been updated*
 
