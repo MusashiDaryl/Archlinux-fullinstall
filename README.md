@@ -79,13 +79,21 @@ sh archfi
 
 #### b) Disposition clavier
 
-| Configurer    | Menu de  base      |
+| Menu de  base | Choix clavier      |
 |:-------------:|:------------------:|
 |![](https://i.vgy.me/TJGTHd.png)|![](https://i.vgy.me/d4n2NA.png)
 
 #### c) Définir locale
 
+| Menu de  base | Choix localité     |
+|:-------------:|:------------------:|
+|![](https://i.vgy.me/FvdefQ.png)|![](https://i.vgy.me/jLXOLk.png)
+
 #### d) Définir l'horloge
+
+| Menu de  base | Région             | Ville      | Horloge matériel |
+|:-------------:|:------------------:|:----------:|:-------------------:|
+|![](https://i.vgy.me/EwXKmo.png)|![](https://i.vgy.me/JqCdEK.png)|![](https://i.vgy.me/BEU4wx.png)|![](https://i.vgy.me/wdv55g.pngg)
 
 #### e) Définir le mot de passe root
 
