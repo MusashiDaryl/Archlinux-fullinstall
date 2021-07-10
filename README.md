@@ -44,6 +44,12 @@ sh archfi
 |:-------------:|:------------------:|:---------------:|:-------------------:|
 |![](https://i.vgy.me/BBGsjK.png)|![](https://i.vgy.me/JvFjr9.png)|![](https://i.vgy.me/QezmTx.png)|![](https://i.vgy.me/n1ZjjC.png)
 
+##### Selectionner les partitions d'installation
+
+| Menu de  base | Boot        | Swap       | Root      | Confirmer |
+|:-------------:|------------:|:----------:|:---------:|:---------:|
+|![](https://i.vgy.me/uVBBxV.png)|![](https://i.vgy.me/ifB8mK.png)|![](https://i.vgy.me/XvZphn.png)|![](https://i.vgy.me/tuUDGk.png)|![](https://i.vgy.me/n1ZjjC.png)
+
 #### Arch-Based
 
 ```
