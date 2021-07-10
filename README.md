@@ -38,7 +38,11 @@ sh archfi
 |:-------------:|:-------------:|:--------------------:|:-------------:|
 |![](https://i.vgy.me/akWuSX.png)|![](https://i.vgy.me/w4d9Gv.png)|![](https://i.vgy.me/ds0d9H.png)|![](https://i.vgy.me/Ce7DUL.png)
 
-*Note: PPA is for picom since compton is old and hasn't been updated*
+##### Partitionner le disque
+
+| Menu de  base | Langue        | Retour au menu       | Clavier       |
+|:-------------:|:-------------:|:--------------------:|:-------------:|
+|![](https://i.vgy.me/BBGsjK.png)|![](https://i.vgy.me/w4d9Gv.png)|![](https://i.vgy.me/ds0d9H.png)|![](https://i.vgy.me/Ce7DUL.png)
 
 #### Arch-Based
 
