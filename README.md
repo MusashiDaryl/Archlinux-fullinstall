@@ -12,12 +12,10 @@ Le but de la manoeuvre est d'installer Arch via archfi, et ensuite avoir un simi
 |:-------------:|:-------------:|:-------------:|
 |![](https://i.imgur.com/fELCtep.png)|![](https://i.imgur.com/7IthpQS.png)|![](https://i.imgur.com/rcKOLYQ.png)|
 
-#TEST
-## Installation
 
-### I) Installation de Arch
+## I) Installation
 
-#### 1) Lancement de Archfi
+### 1) Lancement de Archfi
 
 | Lancer la clé | Lancer Arch   | tty1   |
 |:-------------:|:-------------:|:-------------:|
@@ -31,21 +29,21 @@ curl -LO archfi.sf.net/archfi
 sh archfi
 ```
 
-#### 2) Le Script Archfi
+### 2) Le Script Archfi
 
-##### Choix de la langue et du clavier
+#### a) Choix de la langue et du clavier
 
 | Menu de  base | Langue        | Retour au menu       | Clavier       |
 |:-------------:|:-------------:|:--------------------:|:-------------:|
 |![](https://i.vgy.me/akWuSX.png)|![](https://i.vgy.me/w4d9Gv.png)|![](https://i.vgy.me/ds0d9H.png)|![](https://i.vgy.me/Ce7DUL.png)
 
-##### Partitionner le disque
+#### b) Partitionner le disque
 
 | Menu de  base | Choisir SDA        | Confirmer       | Retour au menu      |
 |:-------------:|:------------------:|:---------------:|:-------------------:|
 |![](https://i.vgy.me/BBGsjK.png)|![](https://i.vgy.me/JvFjr9.png)|![](https://i.vgy.me/QezmTx.png)|![](https://i.vgy.me/n1ZjjC.png)
 
-##### Selectionner les partitions d'installation
+#### c) Selectionner les partitions d'installation
 
 | Menu de  base | Boot          | Swap       |
 |:-------------:|:-------------:|:----------:|
@@ -55,7 +53,7 @@ sh archfi
 |:---------:|:---------:|:---------:|
 |![](https://i.vgy.me/tuUDGk.png)|![](https://i.vgy.me/CfYEaQ.png)|![](https://i.vgy.me/NKcAlN.png)
 
-##### Formater et monter les partitions
+#### d) Formater et monter les partitions
 
 | Menu de  base | Confirmer          | Boot = FAT32 (EFI) |
 |:-------------:|:------------------:|:------------------:|
