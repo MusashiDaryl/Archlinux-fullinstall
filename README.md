@@ -68,7 +68,7 @@ sh archfi
 
 | Menu de  base | Noyau =  linux-lts | Firmwares       | Système de fichiers |
 |:-------------:|:------------------:|:---------------:|:-------------------:|
-|![]()|![](https://i.vgy.me/93K8at.png)|![](https://i.vgy.me/ottSLt.png)|![](https://i.vgy.me/LS755B.png)|![](https://i.vgy.me/JcPGpu.png)
+|![](https://i.vgy.me/93K8at.png)|![](https://i.vgy.me/ottSLt.png)|![](https://i.vgy.me/LS755B.png)|![](https://i.vgy.me/JcPGpu.png)|![]()
 
 
 
