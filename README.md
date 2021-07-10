@@ -40,9 +40,9 @@ sh archfi
 
 ##### Partitionner le disque
 
-| Menu de  base | Langue        | Retour au menu       | Clavier       |
-|:-------------:|:-------------:|:--------------------:|:-------------:|
-|![](https://i.vgy.me/BBGsjK.png)|![](https://i.vgy.me/w4d9Gv.png)|![](https://i.vgy.me/ds0d9H.png)|![](https://i.vgy.me/Ce7DUL.png)
+| Menu de  base | Choisir SDA        | Confirmer       | Retour au menu      |
+|:-------------:|:------------------:|:---------------:|:-------------------:|
+|![](https://i.vgy.me/BBGsjK.png)|![](https://i.vgy.me/JvFjr9.png)|![](https://i.vgy.me/QezmTx.png)|![](https://i.vgy.me/n1ZjjC.png)
 
 #### Arch-Based
 
