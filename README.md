@@ -63,25 +63,25 @@ sh archfi
 |:-------------:|:------------------:|:---------------------:|
 |![](https://i.vgy.me/42ZHTY.png)|![](https://i.vgy.me/QL6QZW.png)|![](https://i.vgy.me/zDe03H.png)
 
-#### 4) Installer Archlinux pacstrap
+### 4) Installer Archlinux pacstrap
 
 | Menu de  base | Noyau =  linux-lts | Firmwares       | Système de fichiers |
 |:-------------:|:------------------:|:---------------:|:-------------------:|
 |![](https://i.vgy.me/93K8at.png)|![](https://i.vgy.me/ottSLt.png)|![](https://i.vgy.me/LS755B.png)|![](https://i.vgy.me/JcPGpu.png)
 
-#### 5) Configurer Archlinux
+### 5) Configurer Archlinux
 
 #### a) Définir le nom de l'ordinateur
-
-| Configurer    | Menu de  base      |
-|:-------------:|:------------------:|
-|![](https://i.vgy.me/TJGTHd.png)|![](https://i.vgy.me/d4n2NA.png)
-
-#### b) Disposition clavier
 
 | Configurer    | Menu de  base      | Choisir le nom du pc |
 |:-------------:|:------------------:|:--------------------:|
 |![](https://i.vgy.me/jrwPWO.png)|![](https://i.vgy.me/2XWJaU.png)|![](https://i.vgy.me/xW6nqN.png)
+
+#### b) Disposition clavier
+
+| Configurer    | Menu de  base      |
+|:-------------:|:------------------:|
+|![](https://i.vgy.me/TJGTHd.png)|![](https://i.vgy.me/d4n2NA.png)
 
 #### c) Définir locale
 
