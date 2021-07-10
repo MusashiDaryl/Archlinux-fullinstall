@@ -12,6 +12,7 @@ Le but de la manoeuvre est d'installer Arch via archfi, et ensuite avoir un simi
 |:-------------:|:-------------:|:-------------:|
 |![](https://i.imgur.com/fELCtep.png)|![](https://i.imgur.com/7IthpQS.png)|![](https://i.imgur.com/rcKOLYQ.png)|
 
+#TEST
 ## Installation
 
 ### I) Installation de Arch
