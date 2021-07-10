@@ -54,6 +54,16 @@ sh archfi
 |:---------:|:---------:|:---------:|
 |![](https://i.vgy.me/tuUDGk.png)|![](https://i.vgy.me/CfYEaQ.png)|![](https://i.vgy.me/NKcAlN.png)
 
+##### Formater et monter les partitions
+
+| Menu de  base | Confirmer          | Boot = FAT32 (EFI) |
+|:-------------:|:------------------:|:------------------:|
+|![](https://i.vgy.me/yDyLa4.png)|![](https://i.vgy.me/wG3dqX.png)|![](https://i.vgy.me/5OU7JT.png)
+
+| Swap = Swap   | Root = btrfs       | Monter les partitions |
+|:-------------:|:------------------:|:---------------------:|
+|![](https://i.vgy.me/42ZHTY.png)|![](https://i.vgy.me/QL6QZW.png)|![](https://i.vgy.me/zDe03H.png)
+
 
 #### Arch-Based
 
