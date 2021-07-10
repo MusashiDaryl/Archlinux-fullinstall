@@ -26,9 +26,7 @@ Le but de la manoeuvre est d'installer Arch via archfi, et ensuite avoir un simi
 ##### Après le boot sur la clé avec Arch en EFI
 
 ```
-pacman -Sy
-pacman -S wget
-wget archi.sf.net
+curl -LO archfi.sf.net/archfi
 sh archfi
 ```
 
@@ -38,7 +36,7 @@ sh archfi
 
 | Menu de  base | Langue        | Clavier       |
 |:-------------:|:-------------:|:-------------:|
-|![](https://i.imgur.com/fELCtep.png)|![](https://i.imgur.com/7IthpQS.png)|![](https://i.imgur.com/rcKOLYQ.png)|
+|![](https://i.vgy.me/akWuSX.png)|![](https://i.vgy.me/w4d9Gv.png)|![](https://i.vgy.me/ds0d9H.png)|
 
 *Note: PPA is for picom since compton is old and hasn't been updated*
 
