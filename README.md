@@ -34,9 +34,9 @@ sh archfi
 
 ##### Choix de la langue et du clavier
 
-| Menu de  base | Langue        | Clavier       |
-|:-------------:|:-------------:|:-------------:|
-|![](https://i.vgy.me/akWuSX.png)|![](https://i.vgy.me/w4d9Gv.png)|![](https://i.vgy.me/ds0d9H.png)|
+| Menu de  base | Langue        | Retour au menu       | Clavier       |
+|:-------------:|:-------------:|:--------------------:|:-------------:|
+|![](https://i.vgy.me/akWuSX.png)|![](https://i.vgy.me/w4d9Gv.png)|![](https://i.vgy.me/ds0d9H.png)|![](https://i.vgy.me/Ce7DUL.png)
 
 *Note: PPA is for picom since compton is old and hasn't been updated*
 
