@@ -48,7 +48,7 @@ sh archfi
 
 | Menu de  base | Boot         | Swap       |
 |:-------------:|-------------:|:----------:|
-|![](https://i.vgy.me/uVBBxV.png)|![](https://i.vgy.me/ifB8mK.png)|![](https://i.vgy.me/XvZphn.png)|![](https://i.vgy.me/tuUDGk.png)|![](https://i.vgy.me/n1ZjjC.png)
+|![](https://i.vgy.me/uVBBxV.png)|![](https://i.vgy.me/ifB8mK.png)|![](https://i.vgy.me/XvZphn.png)|![](https://i.vgy.me/tuUDGk.png)
 
 | Root      | Home      | Confirmer |
 |:---------:|:---------:|:---------:|
