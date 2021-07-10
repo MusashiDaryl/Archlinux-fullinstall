@@ -13,9 +13,9 @@ Le but de la manoeuvre est d'installer Arch via archfi, et ensuite avoir un simi
 |![](https://i.imgur.com/fELCtep.png)|![](https://i.imgur.com/7IthpQS.png)|![](https://i.imgur.com/rcKOLYQ.png)|
 
 
-## I) Installation
+## I) Installation avec le script archfi
 
-### 1) Lancement de Archfi
+### 1) Lancement du script Archfi
 
 | Lancer la clé | Lancer Arch   | tty1   |
 |:-------------:|:-------------:|:-------------:|
@@ -29,21 +29,21 @@ curl -LO archfi.sf.net/archfi
 sh archfi
 ```
 
-### 2) Le Script Archfi
-
-#### a) Choix de la langue et du clavier
+### 2) Choix de la langue et du clavier
 
 | Menu de  base | Langue        | Retour au menu       | Clavier       |
 |:-------------:|:-------------:|:--------------------:|:-------------:|
 |![](https://i.vgy.me/akWuSX.png)|![](https://i.vgy.me/w4d9Gv.png)|![](https://i.vgy.me/ds0d9H.png)|![](https://i.vgy.me/Ce7DUL.png)
 
-#### b) Partitionner le disque
+### 3) Gestion des partitions disque
+
+#### a) Partitionner le disque
 
 | Menu de  base | Choisir SDA        | Confirmer       | Retour au menu      |
 |:-------------:|:------------------:|:---------------:|:-------------------:|
 |![](https://i.vgy.me/BBGsjK.png)|![](https://i.vgy.me/JvFjr9.png)|![](https://i.vgy.me/QezmTx.png)|![](https://i.vgy.me/n1ZjjC.png)
 
-#### c) Selectionner les partitions d'installation
+#### b) Selectionner les partitions d'installation
 
 | Menu de  base | Boot          | Swap       |
 |:-------------:|:-------------:|:----------:|
@@ -53,7 +53,7 @@ sh archfi
 |:---------:|:---------:|:---------:|
 |![](https://i.vgy.me/tuUDGk.png)|![](https://i.vgy.me/CfYEaQ.png)|![](https://i.vgy.me/NKcAlN.png)
 
-#### d) Formater et monter les partitions
+#### c) Formater et monter les partitions
 
 | Menu de  base | Confirmer          | Boot = FAT32 (EFI) |
 |:-------------:|:------------------:|:------------------:|
@@ -63,13 +63,39 @@ sh archfi
 |:-------------:|:------------------:|:---------------------:|
 |![](https://i.vgy.me/42ZHTY.png)|![](https://i.vgy.me/QL6QZW.png)|![](https://i.vgy.me/zDe03H.png)
 
-##### Installer Archlinux pacstrap
+#### 4) Installer Archlinux pacstrap
 
 | Menu de  base | Noyau =  linux-lts | Firmwares       | Système de fichiers |
 |:-------------:|:------------------:|:---------------:|:-------------------:|
-|![](https://i.vgy.me/93K8at.png)|![](https://i.vgy.me/ottSLt.png)|![](https://i.vgy.me/LS755B.png)|![](https://i.vgy.me/JcPGpu.png)|![]()
+|![](https://i.vgy.me/93K8at.png)|![](https://i.vgy.me/ottSLt.png)|![](https://i.vgy.me/LS755B.png)|![](https://i.vgy.me/JcPGpu.png)
 
+#### 5) Configurer Archlinux
 
+#### a) Définir le nom de l'ordinateur
+
+| Configurer    | Menu de  base      |
+|:-------------:|:------------------:|
+|![](https://i.vgy.me/TJGTHd.png)|![](https://i.vgy.me/d4n2NA.png)
+
+#### b) Disposition clavier
+
+| Configurer    | Menu de  base      | Choisir le nom du pc |
+|:-------------:|:------------------:|:--------------------:|
+|![](https://i.vgy.me/jrwPWO.png)|![](https://i.vgy.me/2XWJaU.png)|![](https://i.vgy.me/xW6nqN.png)
+
+#### c) Définir locale
+
+#### d) Définir l'horloge
+
+#### e) Définir le mot de passe root
+
+#### f) Générer fstab
+
+#### g) Bootloader
+
+#### h) Extras
+
+#### i) archdi
 
 #### Arch-Based
 
