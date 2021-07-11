@@ -93,7 +93,7 @@ sh archfi
 
 | Menu de  base | Région | Ville | Horloge matériel    |
 |:-------------:|:------:|:-----:|:-------------------:|
-|![](https://i.vgy.me/EwXKmo.png)|![](https://i.vgy.me/JqCdEK.png)|![](https://i.vgy.me/BEU4wx.png)|![](https://i.vgy.me/wdv55g.png)
+|![](https://i.vgy.me/EwXKmo.png)|![](https://i.vgy.me/JqCdEK.png)|![](https://i.vgy.me/BEU4wx.png)|![](https://i.vgy.me/FBoKcv.png)
 
 | Ville | Horloge matériel |
 |:-------------:|:------:|
