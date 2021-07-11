@@ -93,7 +93,11 @@ sh archfi
 
 | Menu de  base | Région | Ville | Horloge matériel    |
 |:-------------:|:------:|:-----:|:-------------------:|
-|![](https://i.vgy.me/EwXKmo.png)|![](https://i.vgy.me/JqCdEK.png)|![](https://i.vgy.me/BEU4wx.png)|![](https://i.vgy.me/wdv55g.pngg)
+|![](https://i.vgy.me/EwXKmo.png)|![](https://i.vgy.me/JqCdEK.png)
+
+| Ville | Horloge matériel |
+|:-------------:|:------:|
+|![](https://i.vgy.me/BEU4wx.png)|![](https://i.vgy.me/wdv55g.pngg)
 
 #### e) Définir le mot de passe root
 
