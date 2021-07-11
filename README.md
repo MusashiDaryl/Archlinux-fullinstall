@@ -97,7 +97,15 @@ sh archfi
 
 #### e) Définir le mot de passe root
 
+| Menu de  base | Choix du pwd     |
+|:-------------:|:------------------:|
+|![](https://i.vgy.me/tZP29t.png)|![](https://i.vgy.me/NY1hoU.png)
+
 #### f) Générer fstab
+
+| Menu de  base | fstab -U     |
+|:-------------:|:------------------:|
+|![](https://i.vgy.me/2Y5Vnq.png)|![](https://i.vgy.me/uctxpr.png)
 
 #### g) Bootloader
 
