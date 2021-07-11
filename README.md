@@ -95,10 +95,6 @@ sh archfi
 |:-------------:|:------:|:-----:|:-------------------:|
 |![](https://i.vgy.me/EwXKmo.png)|![](https://i.vgy.me/JqCdEK.png)|![](https://i.vgy.me/BEU4wx.png)|![](https://i.vgy.me/FBoKcv.png)
 
-| Ville | Horloge matériel |
-|:-------------:|:------:|
-
-
 #### e) Définir le mot de passe root
 
 | Menu de  base | Choix du pwd     |
